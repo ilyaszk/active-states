@@ -1,0 +1,97 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: hsl(226, 43%, 10%);
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p {
+    margin: 0;
+}
+
+article {
+    display: flex;
+}
+
+.principal {
+    border-radius: 12px;
+    background: hsl(235, 46%, 20%);
+    width: 250px;
+    border-radius: 12px;
+}
+
+
+
+.profil {
+    background: hsl(246, 80%, 60%);
+    height: 245px;
+    border-radius: 12px;
+    padding: 30px;
+}
+
+.profil img {
+    width: 80px;
+    border-radius: 50%;
+    border: whitesmoke solid 3px;
+}
+
+.casesLigne {
+    display: flex;
+}
+
+
+
+.case1 {
+    width: 250px;
+    background: hsl(15, 100%, 70%);
+    border-radius: 15px;
+    padding-top: 40px;
+    margin: 0 10px 40px 10px;
+}
+
+.case2 {
+    width: 250px;
+    background: hsl(195, 74%, 62%);
+    border-radius: 15px;
+    padding-top: 40px;
+    margin: 0 10px 40px 10px;
+}
+
+.case3 {
+    width: 250px;
+    background: hsl(348, 100%, 68%);
+    border-radius: 15px;
+    padding-top: 40px;
+    margin: 0 10px 40px 10px;
+}
+
+.case4 {
+    width: 250px;
+    background: hsl(145, 58%, 55%);
+    border-radius: 15px;
+    padding-top: 40px;
+    margin: 0 10px 40px 10px;
+}
+
+.case5 {
+    width: 250px;
+    background: hsl(264, 64%, 52%);
+    border-radius: 15px;
+    padding-top: 40px;
+    margin: 0 10px 40px 10px;
+}
+
+.case6 {
+    width: 250px;
+    background: hsl(43, 84%, 65%);
+    border-radius: 15px;
+    padding-top: 40px;
+    margin: 0 10px 40px 10px;
+}
+
+.info {
+    padding: 5px 5px 20px 20px;
+    border-radius: 12px;
+    background-color: hsl(235, 46%, 20%);
+}
